@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe game on React",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaTshnkva/Tic-Tac-Toe.git"
+  },
+  "keywords": [
+    "React",
+    "game"
+  ],
+  "author": "Atastasiya Tsyhankova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaTshnkva/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/AnastasiaTshnkva/Tic-Tac-Toe#readme"
+}
